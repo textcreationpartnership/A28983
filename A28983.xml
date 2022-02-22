@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short censure of the book of W.P. entituled, The University of Oxfords plea, refuted</title>
+            <author>Bagshaw, Edward, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28983</idno>
+            <idno type="STC">Wing B398</idno>
+            <idno type="STC">ESTC R7753</idno>
+            <idno type="EEBO-CITATION">11902391</idno>
+            <idno type="OCLC">ocm 11902391</idno>
+            <idno type="VID">50593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 51:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short censure of the book of W.P. entituled, The University of Oxfords plea, refuted</title>
+                  <author>Bagshaw, Edward, d. 1662.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Royston],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Bagshaw. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Place of publication and printer from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  University of Oxfords plea, refuted.</term>
+               <term>University of Oxford.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50593:1" rendition="simple:additions"/>
+            <pb facs="tcp:50593:1" rendition="simple:additions"/>
+            <p>A SHORT CENSURE OF THE BOOK OF <hi>W. P. ENTITULED, The <g ref="char:V">Ʋ</g>niverſity of Oxfords Plea, Refuted.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <figure>
+                  <head>SAPI<g ref="char:EOLhyphen"/>EN<g ref="char:EOLhyphen"/>TIA FELI<g ref="char:EOLhyphen"/>CIT<g ref="char:EOLhyphen"/>ATE</head>
+                  <figDesc>depiction of book</figDesc>
+               </figure>
+               <head>ACADEMIA OXONIENSIS</head>
+            </figure>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50593:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:50593:2"/>
+            <head>A ſhort Cenſure of the Booke of <hi>VV. P. ENTITULED,</hi> The <g ref="char:V">Ʋ</g>niverſity of Oxfords Plea refuted.</head>
+            <p>
+               <seg rend="decorInit">I</seg> May not in reſpect of the place where I am, LONDON, wherein it is perillous, if not capitall, to write Law: nor I cannot in re<g ref="char:EOLhyphen"/>ſpect of my occaſions, which will not per<g ref="char:EOLhyphen"/>mit me too, I have not leiſure to write much, make any large refutation of that Book: But ſhall only content my ſelf with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the work of one day, A briefe Cenſure of the Book: Firſt, in generall; next, in particular.</p>
+            <p>In this, and other of his Writings, I find the Author to pro<g ref="char:EOLhyphen"/>feſſe <milestone type="tcpmilestone" unit="unspecified" n="1"/> much diligence, as if he were an induſtrious and a volu<g ref="char:EOLhyphen"/>minous Compiler of the Acts and Speeches of other men, many of them are very truly quoted, ſome miſ-reported, moſt miſ-underſtood. The man may be thought (perhaps) to be one of a large and vaſt memory, but certainly of a narrow and ſlender judgement, which by an infelicity in the braine (in the opinions of <hi>Ariſtotle</hi> in his Problemes, and the Author of <hi>The Tryall of Wits</hi>) doe often meet together: Whence it com<g ref="char:EOLhyphen"/>monly
+<pb n="2" facs="tcp:50593:3"/>
+comes to paſſe, that at the end and cloſe of his labours, he leaves his adverſaries with more truth, or at leaſt more evi<g ref="char:EOLhyphen"/>dence on his ſide, then he firſt found about him; as in this Book againſt his once Mother the Vniverſity of <hi>Oxford</hi> ſhall more appeare.</p>
+            <p n="2">2. And therefore I come in the ſecond place to a more par<g ref="char:EOLhyphen"/>ticular diſcuſſing of this his laſt piece, <hi>The Univerſity Plea,</hi> (which in his Book he vaunts to have fully refuted) he makes to be this:</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 2.</note>
+               <hi>That the right of Viſiting the Univerſity of Oxon, is onely in the Kings Majeſtie: and that it is exempt from all other Juriſdi<g ref="char:EOLhyphen"/>ction, both by Foundation, Preſcription, and ſeverall Grants of Exemption.</hi>
+            </p>
+            <p>Whether this be the Vniverſities Plea by their Delegates, <hi>in totidem verbis,</hi> which he againe repeats, <hi>pag.</hi> 7, 8. calling it <hi>A falſe Plea,</hi> I am not able to ſay, having now forgotten it: But becauſe he often mentions it in his Script, in the very ſame words, I will beleeve he hath not committed that fault of miſ-recitall here: But I am confident he hath miſ-under<g ref="char:EOLhyphen"/>ſtood it quite throughout. And therefore in my duty and love to my deare Mother the Vniverſity of <hi>Oxford,</hi> I will be bold to render her ſenſe and meaning of her Plea in theſe words a little more enlarged.</p>
+            <p>
+               <note place="margin">meaning <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Plea.</note>
+               <hi>That the Supreame and Primitive Right of Viſiting the Uni<g ref="char:EOLhyphen"/>verſity of</hi> Oxford, <hi>as it is an Univerſity, (not of a particular Colledge in it, which hath a ſpeciall kind of endowment of ano<g ref="char:EOLhyphen"/>ther conſideration) is onely in the Kings Majeſty, as an ancient inſeparable jurisdiction annexed to his Crowne. And that it is exempt from all other juriſdiction (but what is immediately de<g ref="char:EOLhyphen"/>rived from him) both by Foundation, Preſcription, and ſeverall Grants of Exemption, are legally to be underſtood, eſpecially at this day, ſince the diſſolution of Papall Supremacy by the Statutes of</hi> 24 H. 8. c. 12. 25 H. 8. c. 19. 20. &amp; 21. &amp; 26 H. 8. c. 1. &amp; 1 Eliz. c. 1. &amp;c.</p>
+            <p>
+               <pb n="3" facs="tcp:50593:3"/>Againſt this Plea thus explained, he hath alledged not one materiall thing in all his Book, which I ſhall make appeare by aſſayling his five men of ſtraw, which he hath drawne forth againſt this Plea, which he calls his five Poſitions, which I ſhall thus endeavour to ſhake, if not bring down to that No<g ref="char:EOLhyphen"/>thing on which they ſeeme founded.</p>
+            <p n="1">1. His firſt Poſition is this, <hi>That the Univerſity of</hi> Oxford <hi>was anciently of right for many Ages under the Juriſdiction, if not Viſitation of the Biſhop of</hi> Lincolne, <hi>as he was their Dio<g ref="char:EOLhyphen"/>ceſan.</hi>
+            </p>
+            <p>Wherein he ſaith juſt nothing:<milestone type="tcpmilestone" unit="unspecified" n="Anſw"/> for before <hi>Oxford</hi> was made a Biſhoprick, 'twas never denyed but the Biſhop of <hi>Lincolne</hi> was Dioceſan over the Parochiall Churches, nor the Clergie there be within his juriſdiction, <hi>quatenus Ordinarius loci;</hi> but what is that to the Viſitation of the Vniverſity, being quite another thing, and belonging of right to the King, or to ſuch as are immediately ſent by him, as <hi>W. P.</hi> truly alledgeth their ſaying, <hi>pag.</hi> 54. and maketh it a doubt himſelfe, whether the Vniverſity was anciently of right under the Viſitation of the Biſhop of <hi>Lincolne,</hi> becauſe he ſaith (if not Viſitation) whereby he maketh his Poſition not poſitive, contrary to all Logick: And the proofes he brings for his firſt Poſition, makes the truth of it more ſuſpitious; for he hath them all out of Hiſto<g ref="char:EOLhyphen"/>ry, as <hi>Matthew Paris,</hi> B. <hi>Goodwin,</hi> Arch-Biſhop <hi>Barker,</hi> p. 4, 5, 6, 7. and not out of any authority of Law: And a moſt learned Lawyer adviſeth Students to take heed of Chronicle-Law as falſe and erroneous.<note place="margin">Sir <hi>Edw:</hi> 
+                  <unclear>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </unclear> Pref. to th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rep.</note> And all his Hiſtoricall proofes doe not affirme that the Biſhops of <hi>Lincolne</hi> did viſit out of right, but onely they did it <hi>de facto, Et à facto ad jus non valet argumentum.</hi>
+            </p>
+            <p>His ſecond Poſition being the Body-horſe of his Teame,<label type="milestone">
+                  <seg type="milestoneunit">Poſition. </seg>2</label> and that which beareth the ſtreſſe of his whole Book, is <hi>ver<g ref="char:EOLhyphen"/>batim</hi> thus:</p>
+            <p>
+               <pb n="4" facs="tcp:50593:4"/>
+               <note place="margin">pag. 3.</note>
+               <hi>Secondly, that it was aunciently of Right, and ſo continued till this Parliament, under the viſitation and juriſdiction of the Arch-biſhops of</hi> Canterbury, <hi>as Metropolitans (who have frequently viſited this Univerſity, and</hi> Cambridge <hi>too) as being within their Province, and have been acknowledged and adjudged by K.</hi> Richard 2. <hi>K.</hi> Henry 4. <hi>and an whole Parliament in his Raigne; and by K.</hi> Charles <hi>himſelfe, upon ſolemne Debate to be lawfull Viſitors of it,</hi> de Jure. <hi>And that theſe three Kings and the Parliament of</hi> 13 Hen. 4. <hi>have by their Charters and Votes, abſolutely diſclamed the Kings ſole Right of viſiting the Univer<g ref="char:EOLhyphen"/>ſities; and alwayes reſolved the contrary, when the Univerſities for their own ends, have ſet it on foot, and laid Claime unto it: No King of</hi> England, <hi>before</hi> Hen. 8. <hi>ever viſiting either of the Univerſities, for ought appears by any Authentique Records.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſ."/> This Poſition is not doubtfull and uncertain as the former; but yet it wants not that fault (which is uſual with him) of con<g ref="char:EOLhyphen"/>tradiction to his former poſition; for if it was Aunciently of Right, and ſo continued till this Parliament, for the Arch-biſhop of <hi>Canterbury</hi> to viſit the Univerſities, <hi>de Jure,</hi> (as he ſpeaks) and ſo adjudged by three Kings, and one Parliament; then it could not Anciently and of right be viſited by the Bi<g ref="char:EOLhyphen"/>ſhops of <hi>Lincolne,</hi> which he avers in his firſt poſition: But this ſecond, nor the proofes and records he brings in it, doth give any jot of ſatisfaction to the Vniverſity Plea, but that the Right of Viſitation is ſtill in the Crowne, and ever was an un<g ref="char:EOLhyphen"/>doubted Right of the Crowne: And that theſe Viſitations of the Arch-Biſhops, unleſſe they had Commiſſion ſo to doe, under the Kings owne proper Broad Seale, were meere uſur<g ref="char:EOLhyphen"/>pations upon the Crowne, which I ſhall make thus ſhortly and plainly to appeare.</p>
+            <p>It is very well knowne to men ſtudied in our Lawes, That none but the Kings of <hi>England</hi> could be truly and properly the Founders of the Vniverſities, <hi>(par Caeſari opus)</hi> for it is not
+<pb n="5" facs="tcp:50593:4"/>
+the erecting of Buildings that makes an Vniverſity, but the dedicating and conſecrating of a place, (whether already built, or to be built) to the Muſes as a Seminary and Nurſery of Learning to perpetuity, the Incorporation of it with Gover<g ref="char:EOLhyphen"/>nours, Statutes, and Lawes, the Endowment of it with Fran<g ref="char:EOLhyphen"/>chiſes, Priviledges, Immunities, &amp;c. (which none can doe but the King) is chiefly and properly the Foundation of an Vniverſity. It is an old Rule in Law, <hi>Patronum faciunt Dos, aedificatio, fundus,</hi> either of theſe three make a man a Founder, but chiefly the firſt; which is Endowment, being to an Vni<g ref="char:EOLhyphen"/>verſity all in all; and therefore as Founder of the Vniverſities, the Right of Viſitation did as truly and properly belong to the King, as did the right of Inveſture into Epiſcopacies, of which the King was likewiſe Founder, till the Popes Canon Law was firſt admitted into this Kingdome, which fell out in the dayes of K. <hi>Hen.</hi> 1. and King <hi>Stephen.</hi> And afterwards the Extravagants of Pope <hi>Boniface</hi> the 8. (called by that name, becauſe they were <hi>extra Canonem</hi>) the admiſſion of theſe Laws into this Kingdome, together with the Popes Bulls, ſwelled the Archi-epiſcopall Authority into a Papall Juriſdiction (for ſo was <hi>Anſelme</hi> called in the dayes of <hi>Hen.</hi> 1. <hi>(Alterius orbis Papa)</hi> which continued ſwelling much worſe afterwards, till it received a Purgation in the dayes of <hi>Hen.</hi> 8. And by this uſurped power it was, that the Biſhops of themſelves, with<g ref="char:EOLhyphen"/>out the Kings Authority did viſit Univerſities, and doe other Acts belonging to the Crown, untill the dayes of <hi>Hen.</hi> 8. &amp;c. I could ſay much more on this jubject, but Mr. <hi>Pryn</hi> ſaves me a labour, for it doth not appear by thoſe two Charters (which he ſo much boaſts of throughout his Book) of <hi>Rich.</hi> 2. and <hi>Hen.</hi> 4. and confirmed afterwards by Act of Parliament, 13 <hi>Hen.</hi> 4. that the Archi-epiſcopall viſitation of the Uni<g ref="char:EOLhyphen"/>verſities, was any other then a uſurpation, <hi>de facto,</hi> permitted by <hi>Rich.</hi> 2. and <hi>Hen.</hi> 4. not a Juriſdiction of Right. This ap<g ref="char:EOLhyphen"/>pears
+<pb n="6" facs="tcp:50593:5"/>
+plainly by the Charter of 12. <hi>Caroli</hi> which he menti<g ref="char:EOLhyphen"/>ons in this Poſition, and cites at large <hi>pag.</hi> 35, 36, 37, 38. (which Charter mentions the two forwer Charters, where it is thus ſaid, <hi>Primo &amp; ante omnia per probationes legitimas &amp; per con<g ref="char:EOLhyphen"/>ceſsionem utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> partis nobis conſtabat, Nos jure Coronae noſtrae Angliae habuiſſe &amp; habere poteſtatem viſitandi Univerſitates prae<g ref="char:EOLhyphen"/>dictas, quoties &amp; quandocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> nobis &amp; ſucceſſoribus noſtris vi<g ref="char:EOLhyphen"/>ſum fuerit:</hi> And afterwards, <hi>pag.</hi> 38. where the King gives the Arch-Biſhop leave to viſit, (and giving of leave declares a right) not once in his life, but as oft as he ſhall ſee reaſona<g ref="char:EOLhyphen"/>ble cauſe, which hath this reſtriction, <hi>Ex cauſâ rationabili, &amp;c. per nos &amp; ſucceſſores noſtros primitus approbanda:</hi> By which it appeares that the granting of this Viſitation of the Vniverſi<g ref="char:EOLhyphen"/>ties belongs to the Crowne, and the cauſe of Viſiting after the Graunt muſt be firſt approved by the King: and therefore his ſaying, pag. 10. and pag. 21. that <hi>Rich.</hi> 2. and <hi>H.</hi> 4. in their Charters diſclaimed the ſole Right of viſiting the Vniverſi<g ref="char:EOLhyphen"/>ties: and pag. 39. that King <hi>Charles</hi> in his Charter to the late Arch-Biſhop diſavowed it; is moſt notoriouſly untrue, and no ſuch thing is to be found in them.</p>
+            <p>The Author <hi>W. P.</hi> in the proſecution of the proofe of his ſecond Poſition, hath conſumed almoſt 40. pages of paper, and I beleeve as many dayes of time, and the Logick of all amounts but to this, that the Arch-biſhops of <hi>Cant.</hi> have an<g ref="char:EOLhyphen"/>ciently been Viſitors of the Vniverſity of <hi>Oxford,</hi> and have ſo been confirmed by the Letters Patents of three Kings of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> The Arch-Biſhops of <hi>Cant.</hi> are now extinct, and gone (which this Author well knowes, having a cheif hand in cut<g ref="char:EOLhyphen"/>ting off the laſt) <hi>Ergo,</hi> the King and ſuch as are immediately ſent by him, (for ſo is the Vniverſities Plea to be underſtood, and is ſo confeſſed by <hi>W. P. pag.</hi> 54.) are not the ſole Viſitors of the Vniverſity: How this Argument holds together, leave it for young Sophiſters to judge; Only I pitty the great paines
+<pb n="7" facs="tcp:50593:5"/>
+he hath taken to joyne together a rope of ſand.</p>
+            <p>The Vniverſity did expect that ſo learned a man, as he by voluminous quotations deſires to appeare, would have given ſatisfaction in declaring who had the ſole Right of her Viſitation, if the King and thoſe immedi<g ref="char:EOLhyphen"/>ately appointed by him had it not, whether the two Hou<g ref="char:EOLhyphen"/>ſes of Parliament, or one of them, if ſo, then by what way and meanes they had that Right, whether by im<g ref="char:EOLhyphen"/>mediate Commiſſion from the King, if ſo, then whether by the Great Seale, which was made by the two Houſes, or by what other? For that the King in his laſt Meſſage to the Houſes queſtions the validity of it, as that which he ſaith was made without his Warrant<g ref="char:punc">▪</g> Or if it had his warrant for thoſe perſons that were to viſit, whether they firſt acquainted the King with the cauſe of Viſitation, (the words of the Kings Charter being <hi>Ex legitimâ cauſa per nos &amp; ſucceſſores noſtros primitus approbanda;</hi> with divers more in that kind, which would have given much ſatisfaction to the double charged Conſciences of that poore Vniverſity, in their Oathes to God, and their Al<g ref="char:EOLhyphen"/>legeance to their Prince. But not a word of any of theſe in his Booke, wherein he might have much righted the Houſes and himſelfe<g ref="char:punc">▪</g> onely he makes much adoe in ex<g ref="char:EOLhyphen"/>cuſing the perſons of the Viſitors, and freeing them from the exceptions taken againſt them, pag. 59, 60, 61, 62. Onely one viſible exception is forgot, which I beleeve was thought of by the Vniverſity, though not expreſt; <hi>viz.</hi> the exception taken by an ancient Law againſt a Viſitor or Judge, that he was to be <hi>integri corporis,</hi> as well as <hi>Animi,</hi> and therefore by the ancient Canons if a Viſitor or Judge had <hi>Corpus mutilatum,</hi> or <hi>mem<g ref="char:EOLhyphen"/>bram abſciſſum,</hi> it was an exception; And therefore if
+<pb n="8" facs="tcp:50593:6"/>
+there were cauſe of ſuch an exception againſt any of theſe Viſitors, it had been his part to have cleered it, that ſo he might not have appeared <hi>male audere</hi> in that Vniver<g ref="char:EOLhyphen"/>ſity which he was to Viſit.</p>
+            <p>The other three Poſitions, as the Refutes doth not much inſiſt upon them, ſo it will not hurt the Vniverſity in her Plea to grant them all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſition. </seg>3</label> For as to the third, before the Statutes of 25. and 26. <hi>H.</hi> 8. 1 <hi>E.</hi> 6. <hi>&amp;</hi> 1 <hi>Eliz.</hi> Cardinall <hi>Poole</hi> the Popes Le<g ref="char:EOLhyphen"/>gate, as <hi>Legatus factus,</hi> the Arch-biſhop of <hi>Canterbury</hi> as <hi>Legati nati,</hi> might and did Viſit without the Kings Commiſſion; And ſo might Chancellours of the Vni<g ref="char:EOLhyphen"/>verſity which heretofore were Clergie-men; but then this Viſitation was more <hi>de facto,</hi> then <hi>de jure;</hi> But ſince thoſe Statutes all the Viſitations of the Vniverſities have been by the Kings immediate Commiſſion. And ſo did Sir <hi>William Cecill,</hi> 1. <hi>Eliz.</hi> viſit <hi>Cambridge,</hi> as Chancel<g ref="char:EOLhyphen"/>lour of that Vniverſity.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſition. </seg>4</label> His fourth Poſition is, <hi>That moſt particular Colledges and Halls in both Univerſities, have their particular Vi<g ref="char:EOLhyphen"/>ſitors appointed by the Founders, to whoſe Viſitation they are ſubject, and not to the Kings.</hi>
+            </p>
+            <p>A moſt true poſition, and the Vniverſity ſtrives not with him in it if he can reſt there, ſhe onely diſlikes his irrationall inference thereupon, <hi>Ergo</hi> the Right of Viſit<g ref="char:EOLhyphen"/>ing the Vniverſity of <hi>Oxford,</hi> is not onely in the Kings Majeſty: Much like to this Argument, the Lord Maior of <hi>London</hi> is the proper Governour of that City, <hi>Ergo,</hi> the King hath not the ſole right of governing the King<g ref="char:EOLhyphen"/>dome, contrary to the Statute of the 1. <hi>Eliz.</hi> and the Oath of Supremacy, calling him the onely Supreame Gover<g ref="char:EOLhyphen"/>nour: According to the lines of proportion and ſimili<g ref="char:EOLhyphen"/>tude,
+<pb n="9" facs="tcp:50593:6"/>
+as a City is to a Kingdome, ſo is a particular Col<g ref="char:EOLhyphen"/>ledg to an Vniverſity; The King ſole Governour of the Kingdome, the Lord Major with the Aldermen, &amp;c. ſole Governours of the City; the King (or thoſe whom he immediately appoints, which muſt ever be under<g ref="char:EOLhyphen"/>ſtood) ſole Viſitors of the Vniverſity of <hi>Oxford;</hi> the Biſhop of <hi>Lincolne</hi> ſole Viſitor of <hi>Brazen-noſe</hi> Colledge: when the King comes into the City, the Lord Major yeilds up his Sword, and his Government is for that time ſuſpended: So when the King viſits the Vniverſity of <hi>Oxford,</hi> the Viſitation of the Biſhop of <hi>Lincolne</hi> is then ſuſpended, like as in the Metropoliticall Viſitati<g ref="char:EOLhyphen"/>on, the Epiſcopall Viſitation is ſuſpended. And theſe ſubordinations are full of Harmony, and doe not con<g ref="char:EOLhyphen"/>tradict each other, as he thinketh when he thus ſpeaketh, <hi>How then the King can truly and really be ſtiled the ſole Founder and Viſitor of the Univerſity of</hi> Oxford <hi>when there are but three Colledges there of his Foundation, and but one of his Viſitation, I deſire the Vniverſity at leiſure to reſolve.</hi>
+            </p>
+            <p>Truly, his once Mother, the Vniverſity of <hi>Oxford</hi> hath reſolved it already, and will take no further time; But wiſheth him hereafter to be a good Child, and leave an old fault of his of miſtaking the queſtion: For the Vni<g ref="char:EOLhyphen"/>verſity never made it a Queſtion, Whether the King was ſole Founder or Viſitor of a particular Colledge, but of an Vniverſity, they being two diſtinct things, diſtinct Corporations, having diſtinct Governours, diſtinct Of<g ref="char:EOLhyphen"/>ficers, diſtinct Statutes, &amp;c.</p>
+            <p>But the Concluſion of this fourth Poſition may not be paſſed by without reproof, where he calls this Right of the Kings ſole viſiting the Vniverſity; <hi>The Kings
+<pb n="10" facs="tcp:50593:7"/>
+pretended Royall Monopoly;</hi> which being ſpoken of <hi>him</hi> a ſacred perſon, eſpecially in this his day of affliction by his owne naturall born Subject, and by a man profeſ<g ref="char:EOLhyphen"/>ſing Religion, favours more of a ſon of <hi>Shimei,</hi> then a ſer<g ref="char:EOLhyphen"/>vant of Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſition. </seg>5</label>
+               <hi>That the pretended Grants of exemption from Viſitati<g ref="char:EOLhyphen"/>on, &amp;c. now pleaded by the Univerſity, were not procured from the Kings of</hi> England, <hi>but from Popes by their Bulls, and that our Kings themſelves and one Parliament, have damned them as derogatory to the Kings Prerogative, &amp;c.</hi>
+            </p>
+            <p>This Poſition he braggingly ſaith, <hi>pag.</hi> 43. that he hath already ſubſtantially proved in every ſyllable, amongſt the proofs of his ſecond Poſition, and ſurceaſeth any farther proof, But concludes thus bitterly againſt the Vniverſity in this manner: <hi>The Author of the Univerſi<g ref="char:EOLhyphen"/>ties Priviledges was very ill adviſed to plead the Popes ex<g ref="char:EOLhyphen"/>ploded illegall Antichriſtian Bulls in Bar againſt the Ju<g ref="char:EOLhyphen"/>riſdiction of both Houſes, and the Viſitors deputed by them, in theſe anti-papall times of Reformation; which might juſt<g ref="char:EOLhyphen"/>ly induce them to ſuſpect, that the Heads and Members of the Univerſity have a higher and more reverend eſteem of the Popes uſurped abandoned authority and illegall Bulls, then of both Houſes rightfull power and Ordinances.</hi> A ve<g ref="char:EOLhyphen"/>ry reproachfull, and that though I could ſay more, a moſt envious and cauſleſſe Cenſure, for the Popes Bulls were <hi>leges temporum,</hi> though not <hi>leges ſcripturarum</hi> (as they ſay in ſchools) and cuſtom and time had ſet them up for Lawes; and as they were pleadable then, ſo in the way that the Vniverſity hath pleaded thoſe Bulls, they may be pleaded at this day, without making ſuch a noiſe
+<pb n="11" facs="tcp:50593:7"/>
+and roaring againſt all the Heads and Members of the Vniverſity (not a man excepted) I will give one inſtance inſtead of many; divers Parliament-men have Impro<g ref="char:EOLhyphen"/>priations of Church-livings, and ſome of them (perhaps) diſcharg'd from payment of Tythes by reaſon of the <hi>Ciſterſtian order</hi> (an Order of Fryars exempted by the Popes Bulls from the payment of Tythes of Lands in their owne poſſeſſion) ſhall not a Parliament-man there<g ref="char:EOLhyphen"/>fore in a ſuite againſt him for Tythes plead the Popes Bull by way of diſcharge without being counted a Pa<g ref="char:EOLhyphen"/>piſt, and inclining to Popery? there is no doubt but he may. Beſides, the pleading of the Popes Bulls of Ex<g ref="char:EOLhyphen"/>emption by the Vniverſity was ſo far from Popery, that nothing could more advance their Princes ſupremacy and their own Loyalty, having this inference in it, That if the Pope by an uſurped power upon the Crown could viſit and exempt from Viſitation at his pleaſure: how much more might the King which hath in himſelf that auncient, true, and proper Right of the <hi>Crowne?</hi>
+            </p>
+            <p>And therefore for Concluſion, the Vniverſity of <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> out of her Motherly affection to one that pre<g ref="char:EOLhyphen"/>tends to be her ſon, adviſeth <hi>W. P.</hi> to read often that place, <hi>Deut.</hi> 27. <hi>v.</hi> 16. <hi>Curſed be he that ſetteth light by his Father or his Mother, and all the people ſhall ſay, A<g ref="char:EOLhyphen"/>men.</hi> The ſame application of it to his Prince the Fa<g ref="char:EOLhyphen"/>ther of the Country; And the Lord give him repen<g ref="char:EOLhyphen"/>tance for the Evill he hath done.</p>
+            <p>And thus have I ſhortly examined all his five Poſiti<g ref="char:EOLhyphen"/>ons, and his proofs of them, being the ſubſtance of his whole Book.</p>
+            <p>I will now for Concluſion paſſe my particular Cen<g ref="char:EOLhyphen"/>ſure upon it in the words of the Emperour <hi>Julian</hi> upon
+<pb n="12" facs="tcp:50593:8"/>
+a Book brought to him containing a Confeſſion of Faith of the beſt Church in the world; And what he cor<g ref="char:EOLhyphen"/>ruptly cenſured of that Confeſſion, I will truly and ſin<g ref="char:EOLhyphen"/>cerely cenſure the ſame of the ſcript of <hi>W. P.</hi> in refutati<g ref="char:EOLhyphen"/>on of the Plea of the beſt Vniverſity, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I have read it, I have conſidered it, and I doe utterly condemne it.</p>
+            <epigraph>
+               <q xml:lang="lat">Et cedo mihi quemvis arbitrum.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50593:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
